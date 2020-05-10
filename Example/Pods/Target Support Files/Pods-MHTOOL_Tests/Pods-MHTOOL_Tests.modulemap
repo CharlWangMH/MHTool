@@ -1,0 +1,6 @@
+framework module Pods_MHTOOL_Tests {
+  umbrella header "Pods-MHTOOL_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

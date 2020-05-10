@@ -1,0 +1,6 @@
+framework module MHTOOL {
+  umbrella header "MHTOOL-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "MHTOOL",
+  "version": "0.1.0",
+  "summary": "A short description of MHTOOL.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/CharlWangMH/MHTOOL",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "CharlWangMH": "charlwang@126.com"
+  },
+  "source": {
+    "git": "https://github.com/CharlWangMH/MHTOOL.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MHTOOL/Classes/**/*"
+}
