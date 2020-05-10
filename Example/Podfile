@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'MHTOOL_Example' do
+  pod 'MHTOOL', :path => '../'
+
+  target 'MHTOOL_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
