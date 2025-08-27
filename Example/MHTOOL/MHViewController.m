@@ -7,7 +7,7 @@
 //
 
 #import "MHViewController.h"
-#import <MHPerson.h>
+#import <MHTOOL/MHPerson.h>
 @interface MHViewController ()
 
 @end
